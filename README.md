@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aamnakhan2002
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Data Structures and Algrithms in JAVA
-- 💞️ I’m looking to collaborate on a project in Web Development and JAVA
+- 👋 Hi, I’m Aamna
+- 👀 I’m an aspiring software Developer. 
+- 🌱 I’m currently learning Data Structures and Algorithms and building projects with React.js and Node.js
+- 💞️ I’m looking to collaborate on a project in Web Development.
 - 📫 How to reach me - Email me at aamna13july@gmail.com
 
 <!---
